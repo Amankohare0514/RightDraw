@@ -30,3 +30,5 @@ Before you begin, ensure you have met the following requirements:
    npm install
    ```
 
+
+Open http://localhost:3000 with your browser to see the result.
